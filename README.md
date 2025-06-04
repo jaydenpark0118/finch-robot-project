@@ -36,5 +36,6 @@ Your program must demonstrate your understanding of Java programming concepts fr
 - Or I would attempt the maze once more and have it dance at the end
 
 ## Video
+![Finch Thumbnail](finchvideo.png)
 
-<video controls src="IMG_4219.mp4" title="Finch DEMO Video"></video>
+[Final Finch Video](https://youtube.com/shorts/Wg4DCdOZnpQ)
